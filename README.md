@@ -1,6 +1,6 @@
 # 🌐 Desarrollo Web  
 
-![Banner de la Escuela](https://raw.githubusercontent.com/JosueSay/ImageDocs/main/Web%20Development/banner.png "Banner Escuela")
+![Banner de la Escuela](https://raw.githubusercontent.com/JosueSay/ImageDocs/main/WebDevelopmentSchool/banner.png "Banner Escuela")
 
 🔗 **Enlace de la escuela:** [Desarrollo Web](https://platzi.com/escuela/web/ "Ir al curso")
 
